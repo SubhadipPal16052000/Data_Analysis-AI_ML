@@ -22,7 +22,7 @@ The project followed a standard data science pipeline:
 3.  **Data Preprocessing:**
     * Handled missing values (though none were present in this specific dataset, this step is included for completeness).
     * Feature scaling using `StandardScaler` to normalise numerical features, which is crucial for distance-based algorithms.
-    * Encoded the categorical target variable (M/B) into numerical format (0/1).
+    * Encoded the categorical target variable (M/B) into numerical format (1/0).
 4.  **Model Selection & Training:**
     * Split the dataset into training and testing sets (80/20 ratio).
     * Evaluated several classification algorithms, including:
