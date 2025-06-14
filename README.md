@@ -39,7 +39,7 @@ The project followed a standard data science pipeline:
         * **F1-Score:** Harmonic mean of precision and recall.
         * **ROC AUC Score:** Measures the model's ability to distinguish between classes.
         * **Confusion Matrix:** Visualizes the true and false positives/negatives.
-6.  **Hyperparameter Tuning (for best performing models):** Used techniques like GridSearchCV to optimize model parameters.
+        * 
 ## Tools and Technologies
 
 7. **Language:** Python 3.12
