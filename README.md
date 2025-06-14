@@ -1,4 +1,4 @@
-#  Breast Cancer Prediction Project
+![image](https://github.com/user-attachments/assets/7d3546e3-5e8d-4332-9979-b739bac49b5a)![output](https://github.com/user-attachments/assets/6b9f2f45-bf7a-4f83-ad90-7c4b064264f1)#  Breast Cancer Prediction Project
 ## Introduction
 
 This project focuses on building and evaluating machine learning models to **Detection of Breast Cancer** based on diagnostic measurements. Early and accurate detection of breast cancer is crucial for successful treatment and improved patient outcomes. This analysis uses machine learning techniques to assist in this critical diagnostic process.
@@ -72,19 +72,21 @@ The high recall score for malignant cases is particularly important in a medical
 Here are some key visualizations from the EDA and model evaluation phases:
 
 ### Distribution of Diagnosis
-![Diagnosis Distribution](images/diagnosis_distribution.png)
+![Diagnosis Distribution](![image](https://github.com/user-attachments/assets/5c12f0fa-6001-4774-aab1-ee2b43544fcd)
+)
 * This plot shows the count of benign (B) and malignant (M) diagnoses in the dataset, indicating a slight imbalance.
 
 ### Correlation Heatmap of Features
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](![image](https://github.com/user-attachments/assets/cc9a8f8b-d047-47bb-a426-e1fa7147e7dc)
+)
 * A heatmap illustrating the correlation between various features. Highly correlated features might indicate multicollinearity and potential redundancy.
 
 ### ROC Curve for Best Model
-![ROC Curve](images/roc_curve.png)
+
 * The Receiver Operating Characteristic (ROC) curve for the Random Forest Classifier. The area under the curve (AUC) close to 1.0 indicates excellent discriminative power.
 
 ### Confusion Matrix for Best Model
-![Confusion Matrix](images/confusion_matrix.png)
+
 * A confusion matrix for the Random Forest Classifier, showing the counts of true positives, true negatives, false positives, and false negatives.
 
 ---
