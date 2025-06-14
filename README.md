@@ -1,4 +1,4 @@
-
+# 🏥 Breast Cancer Prediction Model
 ## Introduction
 
 This project focuses on building and evaluating machine learning models to **Detection of Breast Cancer** based on diagnostic measurements. Early and accurate detection of breast cancer is crucial for successful treatment and improved patient outcomes. This analysis uses machine learning techniques to assist in this critical diagnostic process.
