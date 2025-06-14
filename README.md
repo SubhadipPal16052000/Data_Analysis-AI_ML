@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7d3546e3-5e8d-4332-9979-b739bac49b5a)![output](https://github.com/user-attachments/assets/6b9f2f45-bf7a-4f83-ad90-7c4b064264f1)#  Breast Cancer Prediction Project
+
 ## Introduction
 
 This project focuses on building and evaluating machine learning models to **Detection of Breast Cancer** based on diagnostic measurements. Early and accurate detection of breast cancer is crucial for successful treatment and improved patient outcomes. This analysis uses machine learning techniques to assist in this critical diagnostic process.
